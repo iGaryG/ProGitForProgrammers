@@ -12,9 +12,4 @@ namespace ProGitForProgrammers
             Console.WriteLine("This line added to show the staging area");
         }
     }
-
-    public class Calculator
-    {
-        
-    }
 }
